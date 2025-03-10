@@ -24,7 +24,9 @@ public class Aluno {
                 "Idade: " + idade + "\n" +
                 "Curso: " + curso + "\n" +
                 "Aulas assistidas: " + aulas);
-        
+
         leitor.close(); 
+
+        //artur lindo
     }
 }
