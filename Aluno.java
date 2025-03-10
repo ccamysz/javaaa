@@ -27,6 +27,5 @@ public class Aluno {
 
         leitor.close(); 
 
-        //artur lindo
     }
 }
